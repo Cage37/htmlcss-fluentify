@@ -203,3 +203,30 @@ ul li{
 hr{
     margin-top: 70px;
 }
+
+.section{
+    width: 80%;
+    margin: auto;
+    height: 500px;
+}
+
+.section_1{
+    float: left;
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.section_2{
+    float: left;
+    width: 50%;
+    height: 500px;
+    margin-top: 30px;
+    padding-left: 100px;
+}
+
+.h_section{
+    font-weight: 500;
+    font-size: 40px;
+}
